@@ -5,7 +5,8 @@ A naive formalization of BLmf using Isabelle. I've submitted this project as the
 This is a preliminary formalization of the language BLmf (Bounded Lattices with monotone unary functions) as described in the following conference paper:
 Cantone, D., Zarba, C.G. (2006). A Decision Procedure for Monotone Functions over Bounded and Complete Lattices. In: de Swart, H., Orłowska, E., Schmidt, G., Roubens, M. (eds) Theory and Applications of Relational Structures as Knowledge Instruments II. Lecture Notes in Computer Science(), vol 4342. Springer, Berlin, Heidelberg. https://doi.org/10.1007/11964810_15
 
-Files:
+**Files:**
+
 1. Defs.thy
 Contains the definition of the syntax and semantics of BLmf, based on section 2.4 and 2.5 of the cited paper.
 The definition of semantics has utilized "HOL-Algebra.Lattice", stipulating that in a valid evaluation, the parameter L must satisfy the conditions of a bounded lattice (bounded_lattice L).
