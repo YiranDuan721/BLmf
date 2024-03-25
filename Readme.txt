@@ -1,3 +1,7 @@
+A naive formalization of BLmf using Isabelle. I've submitted this project as the "creative homework" for course [Semantics](https://www21.in.tum.de/teaching/semantics/WS23/index.html) in winter semester 2023 at TUM. As a homework project with a hard deadline, I haven't made much effort to make the code concise and robust. The original "readme", as part of the homework, is as following:
+
+---
+
 This is a preliminary formalization of the language BLmf (Bounded Lattices with monotone unary functions) as described in the following conference paper:
 Cantone, D., Zarba, C.G. (2006). A Decision Procedure for Monotone Functions over Bounded and Complete Lattices. In: de Swart, H., Orłowska, E., Schmidt, G., Roubens, M. (eds) Theory and Applications of Relational Structures as Knowledge Instruments II. Lecture Notes in Computer Science(), vol 4342. Springer, Berlin, Heidelberg. https://doi.org/10.1007/11964810_15
 
